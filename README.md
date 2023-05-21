@@ -11,3 +11,11 @@ This project also incorporates the use of tweet sentimental analysis on some key
 
 ![image](https://github.com/PillarBox-hub/twitter-as-a-Tool-for-the-Analysis-of-Disaster-Situations./assets/110098621/1e3868cf-fe8c-41c7-a287-52205fd958be)
 
+
+
+
+
+2. *Visual representation of Count of Most Common Retweet Words*
+
+
+![image](https://github.com/PillarBox-hub/twitter-as-a-Tool-for-the-Analysis-of-Disaster-Situations./assets/110098621/8c0072a9-ee14-4cdb-9b0c-7147585174f6)
