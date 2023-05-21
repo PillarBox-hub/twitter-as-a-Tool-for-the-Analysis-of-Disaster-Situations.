@@ -7,5 +7,7 @@ This project also incorporates the use of tweet sentimental analysis on some key
 
 **KEY FINDINGS**
 
+1. *Visual representation of Count of Most Common Words*
+
 ![image](https://github.com/PillarBox-hub/twitter-as-a-Tool-for-the-Analysis-of-Disaster-Situations./assets/110098621/1e3868cf-fe8c-41c7-a287-52205fd958be)
 
