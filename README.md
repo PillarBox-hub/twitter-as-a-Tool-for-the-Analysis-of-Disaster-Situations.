@@ -19,3 +19,9 @@ This project also incorporates the use of tweet sentimental analysis on some key
 
 
 ![image](https://github.com/PillarBox-hub/twitter-as-a-Tool-for-the-Analysis-of-Disaster-Situations./assets/110098621/8c0072a9-ee14-4cdb-9b0c-7147585174f6)
+
+
+3. Findings representation on Canva
+
+<img width="760" alt="image" src="https://github.com/PillarBox-hub/twitter-as-a-Tool-for-the-Analysis-of-Disaster-Situations./assets/110098621/539c75bd-212c-4e28-a6a7-f246aacda0da">
+
