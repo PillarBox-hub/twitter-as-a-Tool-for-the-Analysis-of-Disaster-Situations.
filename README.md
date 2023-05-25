@@ -7,11 +7,10 @@ This project also incorporates the use of tweet sentimental analysis on some key
 
 **KEY FINDINGS**
 
-1. *Visual representation of Count of Most Common Words*
 
-![image](https://github.com/PillarBox-hub/twitter-as-a-Tool-for-the-Analysis-of-Disaster-Situations./assets/110098621/1e3868cf-fe8c-41c7-a287-52205fd958be)
+1. Findings representation on Canva
 
-
+<img width="760" alt="image" src="https://github.com/PillarBox-hub/twitter-as-a-Tool-for-the-Analysis-of-Disaster-Situations./assets/110098621/539c75bd-212c-4e28-a6a7-f246aacda0da">
 
 
 
@@ -21,7 +20,7 @@ This project also incorporates the use of tweet sentimental analysis on some key
 ![image](https://github.com/PillarBox-hub/twitter-as-a-Tool-for-the-Analysis-of-Disaster-Situations./assets/110098621/8c0072a9-ee14-4cdb-9b0c-7147585174f6)
 
 
-3. Findings representation on Canva
 
-<img width="760" alt="image" src="https://github.com/PillarBox-hub/twitter-as-a-Tool-for-the-Analysis-of-Disaster-Situations./assets/110098621/539c75bd-212c-4e28-a6a7-f246aacda0da">
+3. *Visual representation of Count of Most Common Words*
 
+![image](https://github.com/PillarBox-hub/twitter-as-a-Tool-for-the-Analysis-of-Disaster-Situations./assets/110098621/1e3868cf-fe8c-41c7-a287-52205fd958be)
